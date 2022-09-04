@@ -1,0 +1,14 @@
+# exclude
+*
+
+# include
+!/args2fields
+!/args2fields/*.py
+!/tests
+!/tests/*.py
+!.gitignore
+!LICENSE
+!Pipfile
+!Pipfile.lock
+!README.md
+!setup.py
