@@ -13,7 +13,7 @@ Parses args & kwargs to instance fields (attributes)
 ```bash
 # assumption: you're working on project with pipenv
 pipenv shell
-pipenv install -e https://github.com/hankadler/python-args2fields
+pipenv install -e git+https://github.com/hankadler/python-args2fields#egg=args2fields
 ```
 
 ## Examples
